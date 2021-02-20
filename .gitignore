@@ -214,3 +214,5 @@ tags
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,c,vim,vscode,intellij
+abc/.vscode/launch.json
+abc/.vscode/tasks.json
