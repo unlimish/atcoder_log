@@ -1,0 +1,17 @@
+[package]
+name = "abc_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.3.6"
+
+[[bin]]
+name = "249a"
+path = "src/249a.rs"
+
+[[bin]]
+name = "249b"
+path = "src/249b.rs"
